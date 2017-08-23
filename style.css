@@ -1,5 +1,13 @@
 
 body {
-  background-color: rgb(126, 126, 126)
+  background-color: rgb(244, 239, 239);
+  margin-top: 60px;
+}
 
+#About-Us {
+
+}
+
+#ph-house {
+  min-width: 150px;
 }
