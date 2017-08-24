@@ -4,10 +4,38 @@ body {
   margin-top: 60px;
 }
 
-#About-Us {
+h2 {
+  padding: 0px 3px 0px 3px;
+  margin: 0px 0px 20px 0px;
+  display: inline-block;
+  border-bottom: 1px solid #ccc;
+}
 
+.container-fluid {
+ margin: 30px 0px 30px 0px;
+}
+
+.carousel {
+  /*height: 400px;*/
+  max-height: 400px;
+  overflow: hidden;
+}
+
+.carousel-caption {
+  position: fixed;
+  top: 20px;
+  font-size: 1.5em;
+}
+
+.item img {
+  width: 100%;
+  height: auto;
+}
+
+#About-Us {
 }
 
 #ph-house {
   min-width: 150px;
+  box-shadow: 0px 0px 3px grey;
 }
